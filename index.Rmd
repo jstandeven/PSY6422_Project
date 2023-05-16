@@ -72,7 +72,7 @@ head(freddo)
 
 For looking at the national minimum/living wage, as there is varying degrees of this for different age groups, I decided to approach this looking at the wages targeted at 25 year olds, this being my current age. In 2016, the national minimum wage become the national living wage for UK workers aged 23 and over. This information should be considered when observing my visualisation - in the visualisations, we shall refer to the national minimum/living wage as simply the minimum wage. In the original datasets, some years have two wage amounts, one for April and one for October of the same year. In these cases, I have used the April figure, so each minimum wage value is from the April of the year it belongs to.
 
-In the National Minimum Wage dataset, there is a column for year, a column identifying whether the national minimum wage or national living wage was in use and a column for the wage of the particular year, in pounds
+In the National Minimum Wage dataset, there is a column for year, a column identifying whether the national minimum wage or national living wage was in use and a column for the wage of the particular year, in pounds.
 
 ```{r National minimum wage data, message=FALSE, warning=FALSE}
 
